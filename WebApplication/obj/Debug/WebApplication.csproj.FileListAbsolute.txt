@@ -1,0 +1,6 @@
+D:\TestPrgs\WebApplication\WebApplication\bin\WebApplication.dll.config
+D:\TestPrgs\WebApplication\WebApplication\bin\WebApplication.dll
+D:\TestPrgs\WebApplication\WebApplication\bin\WebApplication.pdb
+D:\TestPrgs\WebApplication\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+D:\TestPrgs\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+D:\TestPrgs\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
